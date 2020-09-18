@@ -1,0 +1,21 @@
+{
+	"name": "maximize-video-user.js",
+	"version": "0.0.1",
+	"description": "",
+	"main": "dist/main.user.js",
+	"scripts": {
+		"dist": "node scripts/dist.js",
+		"tag": "node scripts/tag.js",
+		"version": "node scripts/version.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/impossible98/maximize-video-user.js.git"
+	},
+	"author": "impossible98",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/impossible98/maximize-video-user.js/issues"
+	},
+	"homepage": "https://github.com/impossible98/maximize-video-user.js#readme"
+}
