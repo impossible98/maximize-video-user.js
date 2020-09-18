@@ -2,11 +2,12 @@
 // @name        Maximize Video
 // @namespace   https://github.com/impossible98/maximize-video-user.js
 // @description Maximize all video players. Support Piture-in-picture.
-// @author      Anonymous
+// @author      impossible98
 // @match       *://*/*
 // @version     
 // @run-at      document-end
 // ==/UserScript==
+
 ; (() => {
 	const gv = {
 		isFull: false,
